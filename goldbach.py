@@ -11,7 +11,7 @@ trueBoolsNum = int(input("please choose how much true bools you want:"))
 bools = [False]*N
 for i in range(0, trueBoolsNum):
     bools[i] = True
-optionsNum = 0
+optionsNum = 10
 goodOptionsNum = 0
 goldbachOptionsNum = 0
 #now lets sort them in any order we can
